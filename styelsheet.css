@@ -1,0 +1,40 @@
+body
+{
+    margin-top: 150px;
+    background-color: black;
+    color: white;
+}
+.bas
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.dis
+{
+    text-align: right;
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+    font-size: 50px;
+    background-color: ;
+}
+.cal
+{
+    text-align: center;
+}
+.btn
+{
+    font-size: 25px;
+    height: 40px;
+    width:80px;
+    border-radius: 20px;
+    transition: 0.2s;
+    background-color: orangered;
+}
+.btn:hover
+{
+    height: 50px;
+    background-color: white;
+    color: black;
+}
